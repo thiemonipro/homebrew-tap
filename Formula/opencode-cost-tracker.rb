@@ -1,8 +1,8 @@
 class OpencodeCostTracker < Formula
   desc "Local dashboard for estimated OpenCode LLM costs"
   homepage "https://github.com/thiemonipro/opencode_cost_tracker"
-  url "https://github.com/thiemonipro/opencode_cost_tracker/releases/download/v0.1.0/opencode-cost-tracker-0.1.0.tar.gz"
-  sha256 "a6729e8631dc6855addae2aef8bb83ca90aa33b0d6b8bec94010522637b644f0"
+  url "https://github.com/thiemonipro/opencode_cost_tracker/releases/download/v0.2.0/opencode-cost-tracker-0.2.0.tar.gz"
+  sha256 "b8eca98754a8fad92261c0e56f529f56916cf0c9a76c6edbd618471309050da6"
   license "MIT"
 
   depends_on "node@24"
